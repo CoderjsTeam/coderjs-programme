@@ -4,7 +4,7 @@
 <div style="text-align:center"><img src ="./assets/coderjs.png" /></div>
 
 ![](./assets/activity/meet7.jpg)
-
+ ## Are you okay?
  ## Team Management (Volunteer)
 - Joko Auditis
 - Moh. Amirul Fatta
